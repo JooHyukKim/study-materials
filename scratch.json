@@ -1,0 +1,27 @@
+"StackEvents": [
+    {
+        "StackId": "arn:aws:cloudformation:ap-northeast-1:344781517227:stack/hello-world-sam/8562007
+0-0677-11ec-8631-0acfd0f918f7",
+        "EventId": "bc43fd50-0677-11ec-a3e2-06ed5ebe7121",
+        "StackName": "hello-world-sam",
+        "LogicalResourceId": "hello-world-sam",
+        "PhysicalResourceId": "arn:aws:cloudformation:ap-northeast-1:344781517227:stack/hello-world-
+sam/85620070-0677-11ec-8631-0acfd0f918f7",
+        "ResourceType": "AWS::CloudFormation::Stack",
+        "Timestamp": "2021-08-26T14:13:07.093000+00:00",
+        "ResourceStatus": "ROLLBACK_COMPLETE"
+    },
+    {
+        "StackId": "arn:aws:cloudformation:ap-northeast-1:344781517227:stack/hello-world-sam/8562007
+0-0677-11ec-8631-0acfd0f918f7",
+        "EventId": "helloworldpython3Role-DELETE_COMPLETE-2021-08-26T14:13:06.098Z",
+        "StackName": "hello-world-sam",
+        "LogicalResourceId": "helloworldpython3Role",
+        "PhysicalResourceId": "hello-world-sam-helloworldpython3Role-42VLXRGC6LRV",
+        "ResourceType": "AWS::IAM::Role",
+        "Timestamp": "2021-08-26T14:13:06.098000+00:00",
+        "ResourceStatus": "DELETE_COMPLETE",
+        "ResourceProperties": "{\"ManagedPolicyArns\":[\"arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole\"],\"AssumeRolePolicyDocument\":{\"Version\":\"2012-10-17\",\"Statement\":[{\"Action\":[\"sts:AssumeRole\"],\"Effect\":\"Allow\",\"Principal\":{\"Service\":[\"lambda.amazonaws.com\"]}}]},\"Tags\":[{\"Value\":\"SAM\",\"Key\":\"lambda:createdBy\"}]}"
+    },
+    {
+:
