@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nodejs-v2-blue">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AWS-SysOps-Administrator-Associate/code/beanstalk/nodejs-v2-blue.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

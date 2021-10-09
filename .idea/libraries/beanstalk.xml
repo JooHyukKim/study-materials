@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="beanstalk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AWS-Developer-Associate/code/beanstalk/nodejs-v3-ebextensions.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AWS-Developer-Associate/code/beanstalk/nodejs-v2-blue.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

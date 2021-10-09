@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SampleApp_Linux">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AWS-Developer-Associate/code/aws-cicd/codedeploy/SampleApp_Linux.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
