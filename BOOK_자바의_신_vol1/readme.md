@@ -95,6 +95,8 @@ public boolean checkPassword(String password){}
 */
 ```
 
+<br />
+
 ### 자바의 가장 작은 단위는 클래스다.
 
 - 클래스라는 것은 (필수는 아니지만)
@@ -102,13 +104,14 @@ public boolean checkPassword(String password){}
   - 행동이 있어야한다. method
 - 객체지향언어에서는 클래스를 활용에 현실세계를 반영할 수 있게 되었다.
 - 자바 연산의 방향
+
 ```java
 // 수학은 좌측에서 계산 우측 결과 지정
 3 = 1 + 2
-        
 // 자바는 좌측에 결과 지정 우측 계산
 a = 1 + 2
 ```
+
 - 자바의 세미콜론
   - ( ; ) 세미콜론 자바에서 한줄을 의미하는 것, 즉. 인덴트를 별로 신경쓰지 않는다.
 - 모든 프로그래밍 언어에는 예약어라는 것이 잇따
@@ -354,6 +357,8 @@ public static void test(int num, String... words) {
 }
 ```
 
+<br />
+
 ### 챕터 정리
 
 1. 생성자를 만들지 않으면 컴파일러가 기본생성자를 작성한다.
@@ -408,7 +413,9 @@ public static void test(int num, String... words) {
 - 자바의 예약어를 사용하면 절대 안된다.
 
 <br />
+
 > import static .... 으로 static 메소드와 변수들을 가져온다.
+
 <br />
 
 ### 접근제어자와 범위

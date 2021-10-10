@@ -192,7 +192,7 @@ public abstract class RecursiveTask<V> extends forkJoinTask<V>
   1. String은 값이 변결될때마다 새로운 주소를 할당 받는다.
   2. StringBuilder or StringBuffer 를 사용해서 값을 쌓아두고 한번에 업데이트 하는데
   3. 스트링버퍼는 쓰레드 세이프, 빌더는 쓰레드 세이프 하지 않다.
-2.
+2. String
   1. ```String.indexOf(String n)``` 리턴 값으로 int 타입의 문자열의 인덱스 위치 또는 못 찾으면 -1을 반환.
   2. ```String.equals(E e)``` 값을 비교 후 같으면 true 를 반환받는 아이템의 위치를 리턴한다.
   2. substring(int idx, int? idx) string 값의 일부를 반환한다.
@@ -274,6 +274,7 @@ public abstract class RecursiveTask<V> extends forkJoinTask<V>
 ### StringJoiner
 - joiner().add(delimiter, ?prefix, ?suffix)
 - 이건 그냥 예제와 매개변수 명칭만 봐도 알듯...
+
 ```java
 
 StringJoiner joiner = new StringJoiner("-", "[", "]");
@@ -284,7 +285,10 @@ for (String a : arr) {
 System.out.println(joiner)
         
 >>> [my-name-is] 
+
 ```
+
+
 
 ### Lambda
 java.util.function 패키지
