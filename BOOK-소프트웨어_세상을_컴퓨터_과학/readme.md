@@ -7,7 +7,7 @@
 ---
 
 <br />
-<img src="./cover.jpeg" alt="cover" title="cover" width="400" align="center" />
+<img src="./cover.jpeg" alt="cover" title="cover" width="400" alignCenter />
 
 ---
 
