@@ -48,11 +48,9 @@
 
 <br />
 
-
 ## 마치며...
 
-저는 김주혁이라고 합니다.
-** URL을 클릭해서 이동하세요 **
+저의 다른 자료들도 참고 바랍니다!
 
 - 🌱 Blog (Medium) : [https://medium.com/@beanskobe](https://medium.com/@beanskobe)
 - 🌱 Blog (티스토리) : [https://vince-kim.tistory.com/](https://vince-kim.tistory.com/)
