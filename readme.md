@@ -39,8 +39,8 @@
 
 ### 9 핵심요약 및 후기 ["토비의 스프링" - 이일민](https://github.com/JooHyukKim/tobys_spring_sample_codes)
 
-- [티스토리 블로그에서 읽어보기]
+- [티스토리 블로그에서 읽어보기](https://vince-kim.tistory.com/17)
  
 ### 10 핵심요약 및 후기 ["이펙티브 자바 3/E" - 조슈아 블로크](https://github.com/JooHyukKim/sample_codes_java/tree/main/Effective_Java3E)
 
-- [티스토리 블로그에서 읽어보기] 
+- [티스토리 블로그에서 읽어보기](https://vince-kim.tistory.com/18) 
