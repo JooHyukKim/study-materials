@@ -6,6 +6,17 @@
 2. 핵심 내용 정리 모음
 
 
+
+----
+----
+
+
+<img src="./cover.jpeg" alt="cover" title="cover" width="400" alignCenter />
+
+
+----
+----
+
 ----
 ----
 
@@ -42,17 +53,6 @@
     다음으로 핵심 내용 정리 부분을 확인하시길 바랍니다.
 
 
-
-
-----
-----
-
-
-<img src="./cover.jpeg" alt="cover" title="cover" width="400" alignCenter />
-
-
-----
-----
 
 ## 2. 핵심 내용 정리 모음
 
