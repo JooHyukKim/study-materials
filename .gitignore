@@ -1,3 +1,4 @@
 
 *.pem
 docs/course-material.pdf
+.DS_Store
